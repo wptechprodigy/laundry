@@ -1,5 +1,5 @@
 # Engineering Problems
-[![CircleCI](https://circleci.com/gh/wptechprodigy/laundry/tree/master.svg?style=svg)](https://circleci.com/gh/wptechprodigy/laundry/tree/master)
+[![CircleCI](https://circleci.com/gh/wptechprodigy/laundry/tree/master.svg?style=svg)](https://circleci.com/gh/wptechprodigy/laundry/tree/master) [![Build Status](https://travis-ci.org/wptechprodigy/laundry.svg?branch=master)](https://travis-ci.org/wptechprodigy/laundry)
 
 This repo contains questions you should be able to solve in a reasonable amount of time.
 It tests your understanding of JavaScript fundamentals.
