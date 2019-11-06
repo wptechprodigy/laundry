@@ -1,4 +1,5 @@
 # Engineering Problems
+[![CircleCI](https://circleci.com/gh/wptechprodigy/laundry/tree/master.svg?style=svg)](https://circleci.com/gh/wptechprodigy/laundry/tree/master)
 
 This repo contains questions you should be able to solve in a reasonable amount of time.
 It tests your understanding of JavaScript fundamentals.
@@ -28,7 +29,7 @@ The solution to question 4 should go in `src/report.js`
 
 Ensure to write tests as necessary for any utility functions that you may create.
 
---- 
+---
 Do not delete the `node_modules` folder in the `src` folder, it is a hack to get the `api` files to be absolute.
 
 You need the `api` module for Question 3-4.
